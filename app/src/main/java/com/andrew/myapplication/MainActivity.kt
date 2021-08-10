@@ -1,4 +1,4 @@
-gitpackage com.andrew.myapplication
+package com.andrew.myapplication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
